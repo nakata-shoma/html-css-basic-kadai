@@ -16,7 +16,7 @@ header{
   align-items: center;
 }
 h1 {
-  rgb(255, 255, 255)
+  color: rgb(255, 255, 255);
   margin: 0px;
 }
 
